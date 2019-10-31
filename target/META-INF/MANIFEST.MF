@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Implementation-Title: eureka-server
+Implementation-Version: 1.0-SNAPSHOT
+Archiver-Version: Plexus Archiver
+Built-By: zhenganyi
+Start-Class: com.example.EurekaServerApplication
+Implementation-Vendor-Id: com.example
+Spring-Boot-Version: 1.3.7.RELEASE
+Created-By: Apache Maven 3.6.0
+Build-Jdk: 1.8.0_191
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: org.springframework.boot.loader.JarLauncher
+
